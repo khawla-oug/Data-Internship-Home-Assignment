@@ -1,0 +1,3 @@
+{
+  "CleanedDescription": "context httpschemaorg type JobPosting datePosted TZ description ltpgtTest engineerltpgt employmentType FULLTIME hiringOrganization type Organization name AndrewCorp sameAs httpswwwlinkedincomcompanyandrewcorp identifier type PropertyValue name AndrewCorp image null industry  jobLocation type Place address type PostalAddress addressCountry US addressLocality San Francisco Bay Area addressRegion null postalCode  streetAddress null latitude  longitude  skills  title Software Engineer validThrough TZ educationRequirements type EducationalOccupationalCredential credentialCategory bachelor degree"
+}
